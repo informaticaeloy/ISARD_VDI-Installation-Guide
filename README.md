@@ -51,7 +51,7 @@ docker-compose pull && docker-compose up -d
 
 ### 3. Configuración y primeros pasos
 
-Acceder a la IP de la máquina y logueamos con admin/isardVDI
+Acceder a la IP de la máquina y logueamos con admin/IsardVDI
 
 ![image](https://user-images.githubusercontent.com/20743678/187425156-49bbe05f-2f53-4b78-a234-2ac2613a206b.png)
 
