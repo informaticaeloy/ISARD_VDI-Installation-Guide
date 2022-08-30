@@ -56,3 +56,8 @@ Acceder a la IP de la máquina y logueamos con admin/IsardVDI
 ![image](https://user-images.githubusercontent.com/20743678/187425156-49bbe05f-2f53-4b78-a234-2ac2613a206b.png)
 
 ![image](https://user-images.githubusercontent.com/20743678/187425074-922c99cf-ffbb-45ae-8af0-79ce5d5810e3.png)
+
+Creamos un medio de instalación:
+
+
+![image](https://user-images.githubusercontent.com/20743678/187437322-d3a297bd-14d6-4266-9e5b-a5639b579ae4.png)
