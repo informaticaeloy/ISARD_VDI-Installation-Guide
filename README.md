@@ -48,3 +48,11 @@ sudo su
 docker-compose pull && docker-compose up -d
 
 ![image](https://user-images.githubusercontent.com/20743678/187424608-0b01a0e0-1228-42c0-b904-a99b34d3cd9e.png)
+
+### 3. Configuración y primeros pasos
+
+Acceder a la IP de la máquina y logueamos con admin/isardVDI
+
+![image](https://user-images.githubusercontent.com/20743678/187425156-49bbe05f-2f53-4b78-a234-2ac2613a206b.png)
+
+![image](https://user-images.githubusercontent.com/20743678/187425074-922c99cf-ffbb-45ae-8af0-79ce5d5810e3.png)
