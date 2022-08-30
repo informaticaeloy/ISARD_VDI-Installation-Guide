@@ -30,6 +30,11 @@ sudo apt install python3-pip -y
 
 sudo pip3 install docker-compose
 
+![image](https://user-images.githubusercontent.com/20743678/187424403-9b2b60d5-3033-4c5e-9eb9-62447f76adb2.png)
+
+### 2. Clonar repositorio, build y lanzar docker pull
+
+
 git clone https://gitlab.com/isard/isardvdi
 
 cd isardivdi
@@ -42,3 +47,4 @@ sudo su
 
 docker-compose pull && docker-compose up -d
 
+![image](https://user-images.githubusercontent.com/20743678/187424608-0b01a0e0-1228-42c0-b904-a99b34d3cd9e.png)
