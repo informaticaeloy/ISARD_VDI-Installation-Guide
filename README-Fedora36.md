@@ -24,9 +24,24 @@ sudo dnf install dnf-plugin-system-upgrade
 
 ![image](https://user-images.githubusercontent.com/20743678/187608534-439b69ce-4e03-408a-966f-8e17492ce425.png)
 
-
-
-
 ### 2. Instalación de Docker y Docker Compose
 
-sudo apt-get update
+sudo dnf remove docker \
+                  docker-client \
+                  docker-client-latest \
+                  docker-common \
+                  docker-latest \
+                  docker-latest-logrotate \
+                  docker-logrotate \
+                  docker-selinux \
+                  docker-engine-selinux \
+                  docker-engine
+                  
+![image](https://user-images.githubusercontent.com/20743678/187667171-0cbafde3-97d6-4771-ba55-503a3b2405a0.png)
+
+sudo dnf -y install dnf-plugins-core
+
+sudo dnf config-manager \
+    --add-repo \
+    https://download.docker.com/linux/fedora/docker-ce.repo
+    
