@@ -64,3 +64,12 @@ sudo pip3 install docker-compose
 ![image](https://user-images.githubusercontent.com/20743678/187668051-bfb329c8-1d57-4e90-868b-8f2128cc70ea.png)
 
 ![image](https://user-images.githubusercontent.com/20743678/187668099-02b23020-6af8-4747-bbbb-233719b0b414.png)
+
+### 3. Descargar de IsardVDI y despliegue de docker
+
+wget https://isardvdi.com/docker-compose.yml
+
+sudo docker-compose pull
+
+![image](https://user-images.githubusercontent.com/20743678/187668678-16df9e11-0f8b-4228-8307-b9f8f9fd4c68.png)
+
