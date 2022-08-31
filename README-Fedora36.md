@@ -45,3 +45,22 @@ sudo dnf config-manager \
     --add-repo \
     https://download.docker.com/linux/fedora/docker-ce.repo
     
+![image](https://user-images.githubusercontent.com/20743678/187667509-84ed79a3-98ad-4711-aa35-21f3356feee8.png)
+
+![image](https://user-images.githubusercontent.com/20743678/187667605-4226217a-7c00-4ae9-ba07-d640c881d129.png)
+
+sudo systemctl start docker
+
+sudo systemctl enable docker
+
+![image](https://user-images.githubusercontent.com/20743678/187667770-3756529d-4f05-49b1-9598-d98b5067285a.png)
+
+sudo yum install python3-pip
+
+![image](https://user-images.githubusercontent.com/20743678/187667945-7ba17426-56c3-4869-b189-b787705322de.png)
+
+sudo pip3 install docker-compose
+
+![image](https://user-images.githubusercontent.com/20743678/187668051-bfb329c8-1d57-4e90-868b-8f2128cc70ea.png)
+
+![image](https://user-images.githubusercontent.com/20743678/187668099-02b23020-6af8-4747-bbbb-233719b0b414.png)
